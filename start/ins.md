@@ -10,11 +10,16 @@
 -	라이선스 파일(.lic) 내려받기  
 	※ *라이선스 파일은 당사에 등록된 이메일로 전송됩니다.*
 
--	라이선스 활성화  
-	![](/img/lic_menu.png)  
-	![](/img/lic_import.png)  
-	![](/img/lic_imported.png)  
-	![](/img/lic_act.png)  
-	![](/img/lic_acted.png)  
-	※ *라이선스가 활성화되면 설정된 기본값으로 자동시작됩니다.*  
-	![](/img/default_start.png)
+-	라이선스 활성화
+
+	-	메뉴  
+		![](/img/lic_menu.png)  
+	-	파일 찾기  
+		![](/img/lic_import.png)  
+	-	파일 가져옮.  
+		![](/img/lic_imported.png)  
+	-	활성  
+		![](/img/lic_acted.png)  
+		※ *라이선스가 활성화되면 설정된 기본값으로 자동시작됩니다.*  
+	-	기본값으로 자동시작된 결과  
+		![](/img/default_start.png)  
