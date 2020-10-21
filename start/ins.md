@@ -2,8 +2,8 @@
 
 -	PCCAM 설치 패키지 다운로드
 
-	-	x64 : [SetupPcCam_x64_4.6.2.zip](https://1drv.ms/u/s!Av5BT03azSRRzjpweZe12dNv5jBJ?e=5jZeLt)
-	-	x86 : [SetupPcCam_x86_4.6.2.zip](https://1drv.ms/u/s!Av5BT03azSRRzjuQmRstF2YSctMb?e=WRvglE)
+	-	x64 : [SetupPcCam_x64_4.6.2.zip](https://ilink.dooray.com/share/drive-files/knpzj32qutpb.019EZzOOT1igf6er4CzGLg)
+	-	x86 : [SetupPcCam_x86_4.6.2.zip](https://ilink.dooray.com/share/drive-files/knpzj32qutpb.-HbpDtzdSViJtooaPgGkKw)
 
 -	설치
 
