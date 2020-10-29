@@ -18,7 +18,7 @@
 		![](/img/lic_import.png)  
 	-	파일 가져옮.  
 		![](/img/lic_imported.png)  
-	-	활성  
+	-	활성화  
 		![](/img/lic_acted.png)  
 		※ *라이선스가 활성화되면 설정된 기본값으로 자동시작됩니다.*  
 	-	기본값으로 자동시작된 결과  
