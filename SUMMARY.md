@@ -1,7 +1,5 @@
 -	[소개](README.md)
 
-**현재 PCCAM 설명서는 리뉴얼중입니다.**
-
 <!--
 -   [시작](start/index.md)
 
