@@ -1,5 +1,7 @@
 -	[소개](README.md)
 
+-	[다운로드](download.md)
+
 <!--
 -   [시작](start/index.md)
 
