@@ -1,4 +1,4 @@
 ##소개
 
--	[PCCAM](/intro/pccam_intro.md)
--	[CAMViewer](/intro/camviewer_intro.md)
+-	[PCCAM](intro/pccam_intro.md)
+-	[CAMViewer](intro/camviewer_intro.md)
