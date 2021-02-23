@@ -1,7 +1,7 @@
 다운로드
 --------
 
--	PCCAM 설치 패키지(.NET Framework 4.5 포함)
+-	PCCAM 설치 패키지
 
 	-	x86 : [SetupPcCam_x86_4.6.2.zip](https://ilink.dooray.com/share/drive-files/knpzj32qutpb.-HbpDtzdSViJtooaPgGkKw)
 	-	x64 : [SetupPcCam_x64_4.6.2.zip](https://ilink.dooray.com/share/drive-files/knpzj32qutpb.019EZzOOT1igf6er4CzGLg)
