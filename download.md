@@ -12,3 +12,5 @@
 
 	-	x86 : [vc_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 	-	x64 : [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+
+-	[uVNC(Remote PC support)](https://www.uvnc.com/downloads/ultravnc.html)
