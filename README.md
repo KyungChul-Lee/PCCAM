@@ -6,4 +6,4 @@
 
 > 마트에서 **PCCAM**과 **CCTV**를 결합하여 판매시점을 모니터링할 수 있습니다.  
 
-![](img/pms_diagram.PNG)  
+![](img/pms_diagram.png)  
