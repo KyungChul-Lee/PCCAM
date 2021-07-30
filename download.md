@@ -22,4 +22,6 @@
 	-	x86 : [vc_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 	-	x64 : [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
--	[uVNC(Remote PC support)](https://www.uvnc.com/downloads/ultravnc.html)   
+-	[uVNC(Remote PC support)](https://www.uvnc.com/downloads/ultravnc.html)  
+
+- [NTP Client Config Reg](https://1drv.ms/u/s!Av5BT03azSRR6xDoNTTspCVdubWg?e=dA1BoQ)
