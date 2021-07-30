@@ -4,7 +4,7 @@
 -	PCCAM 설치 패키지
 
 	-	x86 : [SetupPcCam_x86_4.6.2.zip](https://1drv.ms/u/s!Av5BT03azSRRzjvuzlEGOIBf-LEg?e=GLwCe8)
-	-	x64 : [SetupPcCam_x64_4.6.2.zip](https://1drv.ms/u/s!Av5BT03azSRRzjomkIiN_TM0gO7Q?e=T9rv41)
+	-	x64 : [SetupPcCam_x64_4.6.2.zip](https://1drv.ms/u/s!Av5BT03azSRRzjomkIiN_TM0gO7Q?e=T9rv41)   
 
 - CamViewer 설치 패키지   
 	- x64 : [CamViewer_v1170_x64_Setup.exe](https://1drv.ms/u/s!Av5BT03azSRR4Ftx2ZANHMmtqZt9?e=bIXStr)
@@ -20,7 +20,11 @@
 -	Visual Studio 2015, 2017 및 2019용 Microsoft Visual C++ 재배포 가능 패키지
 
 	-	x86 : [vc_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)
-	-	x64 : [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+	-	x64 : [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)  
+
+- SmartPSS(VMS)
+	* [x86](https://1drv.ms/u/s!Av5BT03azSRR6iAu2T3fviDumZ_-)
+	* [x64](https://1drv.ms/u/s!Av5BT03azSRRwAh_rEA7FmFmzZZY)
 
 -	[uVNC(Remote PC support)](https://www.uvnc.com/downloads/ultravnc.html)  
 
