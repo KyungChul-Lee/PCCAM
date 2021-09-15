@@ -29,7 +29,7 @@
 
 - SmartPSS(VMS)
 	* [x86](https://1drv.ms/u/s!Av5BT03azSRR6iAu2T3fviDumZ_-)
-	* [x64](https://1drv.ms/u/s!Av5BT03azSRRwAh_rEA7FmFmzZZY)
+	* [x64](https://1drv.ms/u/s!Av5BT03azSRR7h_xqlrxhRz3g2cj?e=CcXmWc)
 
 
 - [Dynu IP Update Client(DDNS IP Update)](https://www.dynu.com/Resources/Downloads)   	
